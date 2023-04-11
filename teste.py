@@ -1,4 +1,12 @@
-elemento=['a', 3]
-index = elemento.index('a')
+grafo = [['c', 0], ['b', 1]]
 
-print(index)
+for p, v in enumerate(grafo):
+    print(v)
+    if type(v) == list:
+        for q, u in enumerate(v):
+            if q == 0:
+                print(u)
+            # print(var[0])
+    else:
+        if p == 0:
+            print(v)
