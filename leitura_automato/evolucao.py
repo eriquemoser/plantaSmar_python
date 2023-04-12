@@ -2,7 +2,9 @@ from time import sleep
 from leitura_automato.lib.interface import *
 from leitura_automato.lib.arquivo import *
 
-arq = 'automato.txt'
+arq = 'GnTransicoes_Certa.txt'
+eventos = 'eventos.txt'
+
 if arquivoExiste(arq):
     print('Arquivo encontrado!!!')
 else:
@@ -14,7 +16,7 @@ pos = 0
 while True:
     resposta = menu(['Ver eventos disponíveis', 'Digitar novo evento', 'Sair do sistema'],pos)
     if resposta == 1:
-        lerarquivo(arq,pos)
+        lerarquivo(arq, eventos, pos)
     elif resposta == 2:
         cabecalho('NOVO EVENTO')
         evento = int(input('Digite o número do evento: '))
