@@ -27,17 +27,45 @@ def lerarquivo(nome, eventos, pos):
     except:
         print('Não foi possível ler o arquivo')
     else:
-        cabecalho('EVENTOS DISPONÍVEIS:')
+        cabecalho('VARREDURA:')
+        contSX=0
         for linha in a:
-            dado = linha.split(' ')
-            dado[2] = dado[2].replace('\n', '')
-            if dado[0] == str(pos):
-                lereventos(eventos,dado[1])
-            # print(dado)
-            # print(f'{dado[0]:<30}{dado[1]:>3} anos')
+            dado = linha.split()
+            contSX+=1
+            if len(dado) == 1:
+                estadosx=str(dado[0])
+                #imprime os valores que tem N e F
+                if 'N' in estadosx or ('N' in estadosx and 'F' in estadosx):
+                    print("Estado analisado:")
+                    print(estadosx)
+                    funceventos(nome,estadosx,contSX)
+            #if len(dado) == 0:
+                #valid_answer=0
+
     finally:
         a.close()
 
+def funceventos(nome,estadosx,contSX):
+    try:
+        a = open(nome, 'rt')
+    except:
+        print('Não foi possível ler o arquivo')
+    else:
+        #cabecalho('entrei:')
+        print('transições:')
+        cont=0
+        for linha in a:
+            dado = linha.split()
+            cont+=1
+            if cont > contSX:
+                if len(dado) == 0:
+                    break
+                else:
+                    print(dado)
+
+    finally:
+        a.close()
+################
 
 def lereventos(arquivo,num):
     try:
@@ -52,8 +80,6 @@ def lereventos(arquivo,num):
             if dado[0] == str(num):
                 print(f'{num} - {dado[1]}')
 
-#teste
-###############
 def evoluir(arquivo, pos, evento):
     try:
         a = open(arquivo, 'rt')
