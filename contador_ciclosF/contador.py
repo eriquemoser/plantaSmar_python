@@ -2,7 +2,7 @@ from time import sleep
 from contador_ciclosF.lib.interface import *
 from contador_ciclosF.lib.arquivo import *
 
-arq = 'diagsimplificado.txt'
+arq = 'ddiag.txt'
 eventos = 'eventos.txt'
 
 if arquivoExiste(arq):

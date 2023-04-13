@@ -29,31 +29,39 @@ def lerarquivo(nome, eventos, pos):
     else:
         cabecalho('VARREDURA:')
         contSX=0
+        nroF=0
         for linha in a:
             dado = linha.split()
-            contSX+=1
+            ##print(dado)
+            #dado2=dado.split(',')
+            #print(dado2)
+            #contSX+=1
             if len(dado) == 1:
                 estadosx=str(dado[0])
                 #imprime os valores que tem N e F
                 if 'N' in estadosx or ('N' in estadosx and 'F' in estadosx):
-                    print("Estado analisado:")
+                    print("\033[31mEstado analisado:\033[m")
                     print(estadosx)
-                    funceventos(nome,estadosx,contSX)
-            #if len(dado) == 0:
-                #valid_answer=0
+                    flagF=funceventos(nome,contSX)
+                    print(flagF)
+                    nroF += flagF
+                    print(nroF)
+
+        print(f'Existem {nroF} estados que levam a falha.')
 
     finally:
         a.close()
 
-def funceventos(nome,estadosx,contSX):
+def funceventos(nome,contSX):
     try:
         a = open(nome, 'rt')
     except:
         print('Não foi possível ler o arquivo')
     else:
         #cabecalho('entrei:')
-        print('transições:')
+        print('estados da sequencia:')
         cont=0
+        flagF = 0
         for linha in a:
             dado = linha.split()
             cont+=1
@@ -61,7 +69,14 @@ def funceventos(nome,estadosx,contSX):
                 if len(dado) == 0:
                     break
                 else:
-                    print(dado)
+                    if ('F' in dado[1]) and ('N' not in dado[1]):
+                        print(dado[1])
+                        flagF=1
+                        print(flagF)
+                    #else:
+                        #print('!sem estados com F!')
+        return flagF
+        #print(f'Existem {contF} estados que levam a falha.')
 
     finally:
         a.close()
