@@ -1,0 +1,19 @@
+S0N
+a	S1N
+
+S4F1
+b	S5F1
+
+S5F1
+c	S4F1
+
+S0N,S4F1
+a	S1N
+b	S5F1
+
+S3N,S5F1
+c	S0N,S4F1
+
+S1N
+b	S3N,S5F1
+
