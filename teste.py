@@ -1,12 +1,8 @@
-grafo = [['c', 0], ['b', 1]]
-
-for p, v in enumerate(grafo):
-    print(v)
-    if type(v) == list:
-        for q, u in enumerate(v):
-            if q == 0:
-                print(u)
-            # print(var[0])
-    else:
-        if p == 0:
-            print(v)
+lista = ['S2Nome', 'ALEGRIA']
+print(lista)
+lista2 = lista[0].split(',')
+nome = lista2[0]
+#print(lista2[0])
+#print(len(lista2[0]))
+print(f'{nome[len(nome)-2]}{nome[len(nome)-1]}')
+#print(lista[0][len(lista)-1]

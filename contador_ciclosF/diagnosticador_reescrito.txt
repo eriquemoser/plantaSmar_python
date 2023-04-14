@@ -1,0 +1,4047 @@
+q0N
+B_Desliga q968N
+CV_Fecha q965N
+Start q9N
+underflow q0N
+
+q569F1
+B_Desliga q554F1
+B_Liga q861F1
+fecha q569F1
+
+q570F1
+B_Desliga q553F1
+fecha q570F1
+
+q297N,q921F1,q925F1
+fecha q925F1
+regula q300N
+CV_Abre q916F1
+CV_Regula q910F1
+
+q174N,q650F1,q668F1
+CV_Fecha q633F1
+fecha q668F1
+regula q178N
+CV_Abre q643F1
+CV_Regula q621F1
+
+q294N,q920F1,q924F1
+abre q299N
+fecha q924F1
+CV_Abre q910F1
+CV_Regula q913F1
+
+q168N,q649F1,q659F1
+CV_Fecha q622F1
+abre q176N
+fecha q659F1
+CV_Abre q627F1
+CV_Regula q632F1
+
+q171N,q648F1,q656F1
+CV_Fecha q622F1
+fecha q177N,q656F1
+CV_Abre q624F1
+CV_Regula q632F1
+
+q669F1
+CV_Fecha q637F1
+fecha q669F1
+CV_Abre q643F1
+CV_Regula q627F1
+
+q660F1
+CV_Fecha q628F1
+fecha q660F1
+CV_Abre q627F1
+CV_Regula q636F1
+
+q662F1
+CV_Fecha q631F1
+fecha q662F1
+CV_Abre q640F1
+CV_Regula q621F1
+
+q658F1
+CV_Fecha q622F1
+fecha q658F1
+CV_Abre q627F1
+CV_Regula q632F1
+
+q667F1
+CV_Fecha q633F1
+fecha q667F1
+CV_Abre q643F1
+CV_Regula q621F1
+
+q576F1
+B_Desliga q559F1
+fecha q576F1
+
+q574F1
+B_Desliga q557F1
+fecha q569F1
+
+q577F1
+B_Desliga q561F1
+fecha q570F1
+
+q582F1
+fecha q582F1
+
+q311N,q943F1,q950F1
+B_Desliga q174N,q650F1,q668F1
+B_Liga q297N,q921F1,q925F1
+fecha q950F1
+regula q314N
+CV_Abre q938F1
+CV_Regula q931F1
+
+q308N,q942F1,q947F1
+B_Desliga q168N,q649F1,q659F1
+B_Liga q294N,q920F1,q924F1
+abre q313N
+fecha q947F1
+CV_Abre q932F1
+CV_Regula q935F1
+
+q198N,q712F1,q728F1
+B_Desliga q174N,q650F1,q668F1
+CV_Fecha q702F1
+B_Liga q297N,q921F1,q925F1
+fecha q728F1
+regula q202N
+CV_Abre q704F1
+CV_Regula q685F1
+
+q192N,q710F1,q718F1
+B_Desliga q168N,q649F1,q659F1
+CV_Fecha q693F1
+B_Liga q294N,q920F1,q924F1
+abre q200N
+fecha q718F1
+CV_Abre q687F1
+CV_Regula q695F1
+
+q195N,q711F1,q719F1
+B_Desliga q171N,q648F1,q656F1
+CV_Fecha q693F1
+fecha q201N,q719F1
+CV_Abre q692F1
+CV_Regula q695F1
+
+q732F1
+B_Desliga q669F1
+CV_Fecha q699F1
+fecha q732F1
+CV_Abre q704F1
+CV_Regula q687F1
+
+q722F1
+B_Desliga q660F1
+CV_Fecha q690F1
+fecha q722F1
+CV_Abre q687F1
+CV_Regula q697F1
+
+q735F1
+B_Desliga q671F1
+CV_Fecha q694F1
+B_Liga q926F1
+fecha q735F1
+CV_Abre q703F1
+CV_Regula q685F1
+
+q725F1
+B_Desliga q662F1
+CV_Fecha q694F1
+fecha q725F1
+CV_Abre q703F1
+CV_Regula q685F1
+
+q717F1
+B_Desliga q658F1
+CV_Fecha q693F1
+fecha q717F1
+CV_Abre q687F1
+CV_Regula q695F1
+
+q953F1
+B_Desliga q673F1
+B_Liga q926F1
+fecha q953F1
+CV_Abre q938F1
+CV_Regula q931F1
+
+q727F1
+B_Desliga q667F1
+CV_Fecha q702F1
+fecha q727F1
+CV_Abre q704F1
+CV_Regula q685F1
+
+q572F1
+B_Liga q863F1
+fecha q572F1
+
+q595F1
+B_Desliga q563F1
+CV_Fecha q577F1
+B_Liga q872F1
+fecha q595F1
+CV_Abre q574F1
+CV_Regula q576F1
+
+q585F1
+fecha q582F1
+
+q608F1
+CV_Fecha q580F1
+fecha q608F1
+CV_Abre q584F1
+CV_Regula q584F1
+
+q580F1
+fecha q580F1
+
+q730F1
+B_Desliga q666F1
+CV_Fecha q702F1
+fecha q730F1
+CV_Abre q706F1
+CV_Regula q685F1
+
+q775F1
+fecha q775F1
+d_SP q950F1
+
+q419F1
+B_Desliga q369F1
+B_Liga q776F1
+fecha q419F1
+
+q351F1,q54N
+fecha q355F1,q59N
+d_SP q196N,q714F1
+
+q345F1,q52N
+fecha q355F1,q59N
+d_SP q194N,q708F1
+
+q81N
+B_Desliga q60N
+B_Liga q222N
+
+q219N,q765F1,q775F1
+fecha q775F1
+regula q222N
+d_SP q311N,q943F1,q950F1
+
+q369F1,q350F1,q56N
+fecha q369F1
+regula q60N
+d_SP q198N,q712F1,q728F1
+
+q79N
+B_Desliga q58N
+B_Liga q221N
+
+q216N,q764F1,q771F1
+abre q221N
+fecha q771F1
+d_SP q308N,q942F1,q947F1
+
+q359F1,q349F1,q50N
+abre q58N
+fecha q359F1
+d_SP q192N,q710F1,q718F1
+
+q409F1,q80N
+B_Desliga q355F1,q59N
+fecha q409F1
+
+q355F1,q348F1,q53N
+fecha q355F1,q59N
+d_SP q195N,q711F1,q719F1
+
+q369F1,q56N
+fecha q369F1
+regula q60N
+d_SP q198N,q712F1,q728F1
+
+q359F1,q50N
+abre q58N
+fecha q359F1
+d_SP q192N,q710F1,q718F1
+
+q355F1,q53N
+fecha q355F1,q59N
+d_SP q195N,q711F1,q719F1
+
+q603F1
+CV_Fecha q585F1
+fecha q603F1
+CV_Abre q581F1
+CV_Regula q579F1
+
+q457F1
+d_LO_LO q608F1
+fecha q457F1
+
+q370F1
+fecha q370F1
+d_SP q732F1
+
+q360F1
+fecha q360F1
+d_SP q722F1
+
+q373F1
+fecha q373F1
+d_SP q735F1
+
+q363F1
+fecha q363F1
+d_SP q725F1
+
+q785F1
+fecha q785F1
+CV_Abre q771F1
+CV_Regula q776F1
+
+q774F1
+fecha q774F1
+d_SP q950F1
+
+q358F1
+fecha q358F1
+d_SP q717F1
+
+q770F1
+fecha q770F1
+d_SP q947F1
+
+q779F1
+fecha q779F1
+d_SP q953F1
+
+q368F1
+fecha q368F1
+d_SP q727F1
+
+q606F1
+fecha q606F1
+CV_Abre q584F1
+
+q602F1
+CV_Fecha q578F1
+fecha q602F1
+CV_Abre q579F1
+CV_Regula q579F1
+
+q598F1
+B_Desliga q565F1
+CV_Fecha q585F1
+B_Liga q869F1
+fecha q595F1
+CV_Abre q572F1
+CV_Regula q579F1
+
+q467F1
+d_LO_LO q608F1
+fecha q467F1
+
+q610F1
+CV_Fecha q580F1
+fecha q608F1
+CV_Abre q584F1
+CV_Regula q584F1
+
+q902F1
+fecha q902F1
+CV_Abre q889F1
+
+q420F1
+B_Desliga q365F1
+fecha q420F1
+
+q409F1
+B_Desliga q355F1
+fecha q409F1
+
+q366F1
+fecha q366F1
+d_SP q730F1
+
+q418F1
+B_Desliga q369F1
+B_Liga q775F1
+fecha q418F1
+
+q408F1
+B_Desliga q359F1
+B_Liga q771F1
+fecha q408F1
+
+q384F1
+CV_Fecha q355F1
+fecha q384F1
+CV_Abre q359F1
+CV_Regula q369F1
+
+q78N
+B_Desliga q57N,q353F1
+B_Liga q220N,q767F1
+fecha q419F1
+regula q81N
+
+q72N
+B_Desliga q51N,q352F1
+B_Liga q217N,q766F1
+abre q79N
+fecha q408F1
+
+q75N
+B_Desliga q351F1,q54N
+fecha q409F1,q80N
+
+q422F1
+B_Desliga q371F1
+B_Liga q773F1
+fecha q422F1
+
+q76N
+B_Desliga q55N,q347F1
+B_Liga q218N,q763F1
+fecha q417F1
+regula q81N
+
+q70N
+B_Desliga q49N,q346F1
+B_Liga q215N,q762F1
+abre q79N
+fecha q407F1
+
+q73N
+B_Desliga q345F1,q52N
+fecha q409F1,q80N
+
+q418F1,q77N
+B_Desliga q369F1,q350F1,q56N
+B_Liga q219N,q765F1,q775F1
+fecha q418F1
+regula q81N
+
+q408F1,q71N
+B_Desliga q359F1,q349F1,q50N
+B_Liga q216N,q764F1,q771F1
+abre q79N
+fecha q408F1
+
+q413F1,q74N
+B_Desliga q355F1,q348F1,q53N
+fecha q409F1,q80N
+
+q384F1,q68N
+CV_Fecha q355F1,q53N
+fecha q384F1
+CV_Abre q359F1,q50N
+CV_Regula q369F1,q56N
+
+q840F1
+B_Desliga q459F1
+B_Liga q814F1
+fecha q840F1
+
+q845F1
+B_Desliga q475F1
+B_Liga q821F1
+fecha q845F1
+
+q259N
+B_Desliga q97N,q445F1
+B_Liga q244N,q808F1
+fecha q840F1
+regula q262N
+
+q257N
+B_Desliga q91N,q447F1
+B_Liga q241N,q809F1
+abre q261N
+fecha q845F1
+
+q819F1
+d_LO_LO q901F1
+fecha q819F1
+
+q471F1
+d_LO_LO q605F1
+fecha q471F1
+
+q458F1
+d_LO_LO q606F1
+fecha q458F1
+
+q466F1
+d_LO_LO q602F1
+fecha q466F1
+
+q456F1
+d_LO_LO q603F1
+fecha q456F1
+
+q464F1
+d_LO_LO q610F1
+fecha q457F1
+
+q421F1
+B_Desliga q370F1
+fecha q421F1
+
+q394F1
+CV_Fecha q370F1
+fecha q394F1
+CV_Abre q375F1
+CV_Regula q359F1
+
+q806F1
+B_Desliga q389F1
+B_Liga q784F1
+fecha q805F1
+CV_Abre q793F1
+CV_Regula q796F1
+
+q410F1
+B_Desliga q360F1
+fecha q410F1
+
+q388F1
+CV_Fecha q360F1
+fecha q388F1
+CV_Abre q359F1
+CV_Regula q369F1
+
+q425F1
+B_Desliga q373F1
+B_Liga q777F1
+fecha q425F1
+
+q414F1
+B_Desliga q363F1
+fecha q414F1
+
+q390F1
+CV_Fecha q363F1
+fecha q390F1
+CV_Abre q373F1
+CV_Regula q354F1
+
+q804F1
+B_Desliga q389F1
+B_Liga q785F1
+fecha q804F1
+CV_Abre q794F1
+CV_Regula q797F1
+
+q415F1
+B_Desliga q364F1
+B_Liga q772F1
+fecha q415F1
+
+q411F1
+B_Desliga q361F1
+B_Liga q769F1
+fecha q411F1
+
+q786F1
+fecha q786F1
+CV_Abre q770F1
+CV_Regula q774F1
+
+q406F1
+B_Desliga q358F1
+fecha q406F1
+
+q386F1
+CV_Fecha q355F1
+fecha q386F1
+CV_Abre q359F1
+CV_Regula q364F1
+
+q405F1
+B_Desliga q354F1
+B_Liga q768F1
+fecha q405F1
+
+q427F1
+B_Desliga q376F1
+B_Liga q778F1
+fecha q427F1
+
+q788F1
+fecha q788F1
+CV_Abre q779F1
+CV_Regula q770F1
+
+q416F1
+B_Desliga q368F1
+fecha q416F1
+
+q393F1
+CV_Fecha q365F1
+fecha q393F1
+CV_Abre q375F1
+CV_Regula q354F1
+
+q468F1
+d_LO_LO q606F1
+fecha q468F1
+
+q455F1
+d_LO_LO q602F1
+fecha q455F1
+
+q474F1
+d_LO_LO q598F1
+fecha q474F1
+
+q473F1
+d_LO_LO q610F1
+fecha q467F1
+
+q820F1
+d_LO_LO q903F1
+fecha q820F1
+
+q816F1
+d_LO_LO q902F1
+fecha q816F1
+
+q469F1
+d_LO_LO q607F1
+fecha q469F1
+
+q460F1
+d_LO_LO q604F1
+fecha q460F1
+
+q380F1,q64N
+fecha q384F1,q68N
+
+q426F1
+B_Desliga q375F1
+B_Liga q777F1
+fecha q426F1
+
+q424F1
+B_Desliga q365F1
+fecha q420F1
+
+q395F1
+CV_Fecha q365F1
+fecha q392F1
+CV_Abre q375F1
+CV_Regula q359F1
+
+q417F1
+B_Desliga q369F1
+B_Liga q772F1
+fecha q417F1
+
+q413F1
+B_Desliga q355F1
+fecha q409F1
+
+q389F1
+CV_Fecha q355F1
+fecha q385F1
+CV_Abre q359F1
+CV_Regula q369F1
+
+q423F1
+B_Desliga q364F1
+B_Liga q776F1
+fecha q423F1
+
+q407F1
+B_Desliga q359F1
+B_Liga q768F1
+fecha q407F1
+
+q412F1
+B_Desliga q362F1
+fecha q409F1
+
+q387F1
+CV_Fecha q362F1
+fecha q384F1
+CV_Abre q356F1
+CV_Regula q366F1
+
+q437F1
+B_Desliga q384F1
+CV_Fecha q413F1
+fecha q437F1
+CV_Abre q408F1
+CV_Regula q418F1
+
+q442F1
+B_Desliga q391F1
+CV_Fecha q416F1
+fecha q442F1
+CV_Abre q427F1
+CV_Regula q411F1
+
+q90N
+B_Desliga q69N
+CV_Fecha q75N
+B_Liga q228N
+CV_Abre q72N
+CV_Regula q78N
+
+q435F1
+B_Desliga q383F1
+CV_Fecha q406F1
+fecha q435F1
+CV_Abre q411F1
+CV_Regula q422F1
+
+q88N
+B_Desliga q67N
+CV_Fecha q73N
+B_Liga q227N
+CV_Abre q70N
+CV_Regula q76N
+
+q377F1,q63N
+fecha q384F1,q68N
+
+q437F1,q89N
+B_Desliga q384F1,q68N
+CV_Fecha q413F1,q74N
+fecha q437F1
+CV_Abre q408F1,q71N
+CV_Regula q418F1,q77N
+
+q253N,q826F1,q830F1
+fecha q830F1
+regula q256N
+CV_Abre q814F1
+CV_Regula q818F1
+
+q110N,q481F1,q489F1
+CV_Fecha q454F1
+fecha q489F1
+regula q114N
+CV_Abre q462F1
+CV_Regula q472F1
+
+q250N,q827F1,q832F1
+abre q255N
+fecha q832F1
+CV_Abre q821F1
+CV_Regula q814F1
+
+q104N,q482F1,q494F1
+CV_Fecha q465F1
+abre q112N
+fecha q494F1
+CV_Abre q477F1
+CV_Regula q463F1
+
+q107N,q483F1,q495F1
+CV_Fecha q470F1
+fecha q113N,q495F1
+CV_Abre q475F1
+CV_Regula q459F1
+
+q226N,q783F1
+fecha q787F1
+regula q228N
+
+q66N,q382F1
+fecha q392F1
+regula q69N
+
+q224N,q782F1
+abre q227N
+fecha q784F1
+
+q62N,q381F1
+abre q67N
+fecha q385F1
+
+q254N,q828F1
+fecha q830F1
+regula q256N
+
+q111N,q484F1
+fecha q489F1
+regula q114N
+
+q251N,q829F1
+abre q255N
+fecha q832F1
+
+q105N,q486F1
+abre q112N
+fecha q496F1
+
+q108N,q485F1
+fecha q113N,q495F1
+
+q855F1
+B_Desliga q496F1
+B_Liga q832F1
+fecha q855F1
+CV_Abre q845F1
+CV_Regula q840F1
+
+q268N
+B_Desliga q112N
+B_Liga q255N
+CV_Abre q257N
+CV_Regula q259N
+
+q835F1
+fecha q835F1
+CV_Abre q823F1
+CV_Regula q817F1
+
+q520F1
+B_Desliga q471F1
+B_Liga q819F1
+fecha q520F1
+
+q509F1
+B_Desliga q458F1
+fecha q509F1
+
+q487F1
+CV_Fecha q464F1
+fecha q487F1
+CV_Abre q456F1
+CV_Regula q466F1
+
+q533F1
+B_Desliga q487F1
+CV_Fecha q509F1
+fecha q533F1
+CV_Abre q514F1
+CV_Regula q520F1
+
+q443F1
+B_Desliga q394F1
+CV_Fecha q421F1
+B_Liga q787F1
+fecha q443F1
+CV_Abre q426F1
+CV_Regula q407F1
+
+q739F1
+fecha q739F1
+d_HI q806F1
+
+q438F1
+B_Desliga q388F1
+CV_Fecha q410F1
+B_Liga q784F1
+fecha q438F1
+CV_Abre q407F1
+CV_Regula q417F1
+
+q325F1
+fecha q325F1
+d_HI q438F1
+
+q440F1
+B_Desliga q390F1
+CV_Fecha q414F1
+B_Liga q787F1
+fecha q440F1
+CV_Abre q425F1
+CV_Regula q405F1
+
+q740F1
+fecha q740F1
+d_HI q804F1
+
+q434F1
+B_Desliga q386F1
+CV_Fecha q406F1
+B_Liga q786F1
+fecha q434F1
+CV_Abre q411F1
+CV_Regula q415F1
+
+q323F1
+fecha q323F1
+d_HI q434F1
+
+q441F1
+B_Desliga q393F1
+CV_Fecha q416F1
+B_Liga q788F1
+fecha q441F1
+CV_Abre q427F1
+CV_Regula q405F1
+
+q844F1
+B_Desliga q469F1
+B_Liga q820F1
+fecha q844F1
+
+q841F1
+B_Desliga q459F1
+B_Liga q816F1
+fecha q841F1
+
+q831F1
+fecha q831F1
+CV_Abre q816F1
+CV_Regula q820F1
+
+q517F1
+B_Desliga q469F1
+B_Liga q818F1
+fecha q517F1
+
+q491F1
+CV_Fecha q460F1
+fecha q491F1
+CV_Abre q459F1
+CV_Regula q469F1
+
+q833F1
+fecha q833F1
+CV_Abre q823F1
+CV_Regula q817F1
+
+q516F1
+B_Desliga q468F1
+fecha q516F1
+
+q492F1
+CV_Fecha q473F1
+fecha q492F1
+CV_Abre q474F1
+CV_Regula q455F1
+
+q540F1
+B_Desliga q492F1
+CV_Fecha q516F1
+fecha q540F1
+CV_Abre q523F1
+CV_Regula q514F1
+
+q488F1
+CV_Fecha q454F1
+fecha q488F1
+CV_Abre q462F1
+CV_Regula q472F1
+
+q493F1
+CV_Fecha q465F1
+fecha q493F1
+CV_Abre q477F1
+CV_Regula q463F1
+
+q497F1
+CV_Fecha q465F1
+fecha q497F1
+CV_Abre q477F1
+CV_Regula q463F1
+
+q834F1
+fecha q834F1
+CV_Abre q821F1
+CV_Regula q814F1
+
+q498F1
+CV_Fecha q470F1
+fecha q498F1
+CV_Abre q475F1
+CV_Regula q459F1
+
+q518F1
+B_Desliga q469F1
+B_Liga q820F1
+fecha q518F1
+
+q511F1
+B_Desliga q459F1
+B_Liga q816F1
+fecha q511F1
+
+q513F1
+B_Desliga q460F1
+fecha q513F1
+
+q490F1
+CV_Fecha q460F1
+fecha q490F1
+CV_Abre q459F1
+CV_Regula q469F1
+
+q523F1
+B_Desliga q476F1
+B_Liga q822F1
+fecha q523F1
+
+q515F1
+B_Desliga q465F1
+fecha q515F1
+
+q433F1,q87N
+B_Desliga q66N,q382F1
+B_Liga q226N,q783F1
+fecha q442F1
+regula q90N
+
+q432F1,q83N
+B_Desliga q62N,q381F1
+B_Liga q224N,q782F1
+abre q88N
+fecha q435F1
+
+q431F1,q85N
+B_Desliga q380F1,q64N
+fecha q437F1,q89N
+
+q444F1
+B_Desliga q395F1
+CV_Fecha q424F1
+B_Liga q787F1
+fecha q442F1
+CV_Abre q426F1
+CV_Regula q407F1
+
+q439F1
+B_Desliga q389F1
+CV_Fecha q413F1
+B_Liga q784F1
+fecha q435F1
+CV_Abre q407F1
+CV_Regula q417F1
+
+q322F1
+fecha q322F1
+d_HI q439F1
+
+q436F1
+B_Desliga q387F1
+CV_Fecha q412F1
+fecha q437F1
+CV_Abre q407F1
+CV_Regula q423F1
+
+q324F1
+fecha q324F1
+d_HI q437F1
+
+q430F1,q86N
+B_Desliga q65N,q379F1
+B_Liga q225N,q781F1
+fecha q442F1
+regula q90N
+
+q42N
+d_HI q90N
+
+q429F1,q82N
+B_Desliga q61N,q378F1
+B_Liga q223N,q780F1
+abre q88N
+fecha q435F1
+
+q321F1
+fecha q321F1
+d_HI q439F1
+
+q40N
+d_HI q88N
+
+q428F1,q84N
+B_Desliga q377F1,q63N
+fecha q437F1,q89N
+
+q324F1,q41N
+fecha q324F1
+d_HI q437F1,q89N
+
+q266N,q849F1,q853F1
+B_Desliga q110N,q481F1,q489F1
+B_Liga q253N,q826F1,q830F1
+fecha q853F1
+regula q269N
+CV_Abre q843F1
+
+q264N,q850F1,q856F1
+B_Desliga q104N,q482F1,q494F1
+B_Liga q250N,q827F1,q832F1
+abre q268N
+fecha q856F1
+CV_Abre q847F1
+
+q134N,q527F1,q537F1
+B_Desliga q110N,q481F1,q489F1
+CV_Fecha q508F1
+B_Liga q253N,q826F1,q830F1
+fecha q537F1
+regula q138N
+CV_Abre q514F1
+
+q128N,q528F1,q544F1
+B_Desliga q104N,q482F1,q494F1
+CV_Fecha q515F1
+B_Liga q250N,q827F1,q832F1
+abre q136N
+fecha q544F1
+CV_Abre q523F1
+
+q131N,q529F1,q545F1
+B_Desliga q107N,q483F1,q495F1
+CV_Fecha q519F1
+fecha q137N,q545F1
+CV_Abre q522F1
+CV_Regula q512F1
+
+q238N,q803F1
+B_Desliga q66N,q382F1
+B_Liga q226N,q783F1
+fecha q807F1
+regula q240N
+
+q267N,q851F1
+B_Desliga q111N,q484F1
+B_Liga q254N,q828F1
+fecha q853F1
+regula q269N
+
+q915F1
+fecha q915F1
+d_LO q853F1
+
+q236N,q802F1
+B_Desliga q62N,q381F1
+B_Liga q224N,q782F1
+abre q239N
+fecha q805F1
+
+q265N,q852F1
+B_Desliga q105N,q486F1
+B_Liga q251N,q829F1
+abre q268N
+fecha q855F1
+
+q912F1
+fecha q912F1
+d_LO q855F1
+
+q135N,q530F1
+B_Desliga q111N,q484F1
+B_Liga q254N,q828F1
+fecha q537F1
+regula q138N
+
+q129N,q531F1
+B_Desliga q105N,q486F1
+B_Liga q251N,q829F1
+abre q136N
+fecha q542F1
+
+q132N,q532F1
+B_Desliga q108N,q485F1
+fecha q137N,q545F1
+
+q263N,q848F1
+B_Desliga q103N,q480F1
+B_Liga q249N,q825F1
+abre q268N
+fecha q855F1
+
+q271N
+u_LO q268N
+
+q554F1
+fecha q554F1
+
+q553F1
+fecha q553F1
+
+q861F1
+fecha q861F1
+
+q552F1
+fecha q552F1
+
+q551F1
+fecha q551F1
+
+q862F1
+fecha q862F1
+
+q555F1
+fecha q555F1
+
+q859F1
+B_Desliga q498F1
+B_Liga q835F1
+fecha q859F1
+CV_Abre q846F1
+CV_Regula q842F1
+
+q550F1
+B_Desliga q498F1
+CV_Fecha q519F1
+B_Liga q835F1
+fecha q550F1
+CV_Abre q522F1
+CV_Regula q512F1
+
+q539F1
+B_Desliga q487F1
+CV_Fecha q509F1
+fecha q533F1
+CV_Abre q514F1
+CV_Regula q520F1
+
+q634F1
+fecha q634F1
+d_LO q533F1
+
+q333F1
+fecha q333F1
+d_HI q443F1
+
+q747F1
+B_Desliga q325F1
+B_Liga q739F1
+fecha q747F1
+
+q329F1
+fecha q325F1
+d_HI q438F1
+
+q330F1
+fecha q330F1
+d_HI q440F1
+
+q745F1
+B_Desliga q323F1
+B_Liga q740F1
+fecha q745F1
+
+q328F1
+fecha q323F1
+d_HI q434F1
+
+q332F1
+fecha q332F1
+d_HI q441F1
+
+q534F1
+B_Desliga q490F1
+CV_Fecha q513F1
+fecha q534F1
+CV_Abre q510F1
+CV_Regula q517F1
+
+q854F1
+B_Desliga q491F1
+B_Liga q831F1
+fecha q854F1
+CV_Abre q841F1
+CV_Regula q844F1
+
+q535F1
+B_Desliga q491F1
+CV_Fecha q513F1
+B_Liga q830F1
+fecha q535F1
+CV_Abre q510F1
+CV_Regula q517F1
+
+q857F1
+B_Desliga q496F1
+B_Liga q833F1
+fecha q857F1
+CV_Abre q846F1
+CV_Regula q842F1
+
+q541F1
+B_Desliga q495F1
+CV_Fecha q519F1
+fecha q541F1
+CV_Abre q521F1
+CV_Regula q510F1
+
+q546F1
+B_Desliga q496F1
+CV_Fecha q519F1
+B_Liga q833F1
+fecha q546F1
+CV_Abre q522F1
+CV_Regula q512F1
+
+q547F1
+B_Desliga q492F1
+CV_Fecha q516F1
+fecha q540F1
+CV_Abre q523F1
+CV_Regula q514F1
+
+q625F1
+fecha q625F1
+d_LO q540F1
+
+q549F1
+B_Desliga q497F1
+CV_Fecha q515F1
+B_Liga q834F1
+fecha q549F1
+CV_Abre q523F1
+
+q536F1
+B_Desliga q488F1
+CV_Fecha q508F1
+fecha q536F1
+CV_Abre q514F1
+
+q543F1
+B_Desliga q493F1
+CV_Fecha q515F1
+fecha q543F1
+CV_Abre q523F1
+
+q858F1
+B_Desliga q497F1
+B_Liga q834F1
+fecha q858F1
+CV_Abre q847F1
+
+q548F1
+B_Desliga q498F1
+CV_Fecha q519F1
+B_Liga q834F1
+fecha q548F1
+CV_Abre q521F1
+CV_Regula q510F1
+
+q538F1
+B_Desliga q490F1
+CV_Fecha q513F1
+fecha q538F1
+CV_Abre q511F1
+CV_Regula q518F1
+
+q544F1
+B_Desliga q494F1
+CV_Fecha q515F1
+B_Liga q832F1
+fecha q544F1
+CV_Abre q523F1
+
+q39N,q320F1
+fecha q334F1
+regula q42N
+d_HI q433F1,q87N
+
+q748F1
+B_Desliga q322F1
+fecha q748F1
+
+q35N,q318F1
+abre q40N
+fecha q322F1
+d_HI q432F1,q83N
+
+q39N
+fecha q334F1
+regula q42N
+d_HI q433F1,q87N
+
+q35N
+abre q40N
+fecha q322F1
+d_HI q432F1,q83N
+
+q37N
+fecha q324F1,q41N
+d_HI q431F1,q85N
+
+q334F1
+fecha q334F1
+d_HI q444F1
+
+q326F1
+fecha q321F1
+d_HI q439F1
+
+q335F1
+fecha q324F1
+d_HI q436F1
+
+q331F1
+fecha q331F1
+d_HI q444F1
+
+q327F1
+fecha q322F1
+d_HI q439F1
+
+q336F1
+fecha q324F1
+d_HI q436F1
+
+q208N
+B_Desliga q42N
+
+q38N,q317F1
+fecha q334F1
+regula q42N
+d_HI q430F1,q86N
+
+q746F1
+B_Desliga q321F1
+fecha q746F1
+
+q207N
+B_Desliga q40N
+
+q34N,q315F1
+abre q40N
+fecha q321F1
+d_HI q429F1,q82N
+
+q38N
+fecha q334F1
+regula q42N
+d_HI q430F1,q86N
+
+q34N
+abre q40N
+fecha q321F1
+d_HI q429F1,q82N
+
+q36N
+fecha q324F1,q41N
+d_HI q428F1,q84N
+
+q701F1
+B_Desliga q632F1
+B_Liga q915F1
+fecha q701F1
+
+q688F1
+B_Desliga q627F1
+B_Liga q912F1
+fecha q688F1
+
+q160N,q617F1
+fecha q165N,q622F1
+d_LO q132N,q532F1
+
+q158N,q611F1
+fecha q165N,q622F1
+d_LO q130N,q526F1
+
+q190N
+B_Desliga q166N
+B_Liga q292N
+
+q289N,q907F1,q913F1
+fecha q913F1
+regula q292N
+d_LO q266N,q849F1,q853F1
+
+q162N,q616F1,q632F1
+fecha q632F1
+regula q166N
+d_LO q134N,q527F1,q537F1
+
+q188N
+B_Desliga q164N
+B_Liga q291N
+
+q286N,q906F1,q910F1
+abre q291N
+fecha q910F1
+d_LO q264N,q850F1,q856F1
+
+q156N,q615F1,q624F1
+abre q164N
+fecha q624F1
+d_LO q128N,q528F1,q544F1
+
+q189N,q689F1
+B_Desliga q165N,q622F1
+fecha q689F1
+
+q159N,q614F1,q622F1
+fecha q165N,q622F1
+d_LO q131N,q529F1,q545F1
+
+q162N,q632F1
+fecha q632F1
+regula q166N
+d_LO q134N,q527F1,q537F1
+
+q156N,q624F1
+abre q164N
+fecha q624F1
+d_LO q128N,q528F1,q544F1
+
+q159N,q622F1
+fecha q165N,q622F1
+d_LO q131N,q529F1,q545F1
+
+q936F1
+B_Desliga q632F1
+B_Liga q915F1
+fecha q936F1
+
+q290N,q909F1
+fecha q915F1
+regula q292N
+d_LO q267N,q851F1
+u_HI q238N,q803F1
+
+q163N,q619F1
+fecha q632F1
+regula q166N
+d_LO q135N,q530F1
+
+q933F1
+B_Desliga q627F1
+B_Liga q912F1
+fecha q933F1
+
+q287N,q908F1
+abre q291N
+fecha q912F1
+d_LO q265N,q852F1
+u_HI q236N,q802F1
+
+q157N,q618F1
+abre q164N
+fecha q627F1
+d_LO q129N,q531F1
+
+q290N
+fecha q915F1
+regula q292N
+d_LO q267N,q851F1
+u_HI q238N,q803F1
+
+q287N
+abre q291N
+fecha q912F1
+d_LO q265N,q852F1
+u_HI q236N,q802F1
+
+q163N
+fecha q632F1
+regula q166N
+d_LO q135N,q530F1
+
+q157N
+abre q164N
+fecha q627F1
+d_LO q129N,q531F1
+
+q160N
+fecha q165N,q622F1
+d_LO q132N,q532F1
+
+q889F1
+fecha q889F1
+
+q278N
+B_Liga q271N
+
+q270N,q860F1
+abre q271N
+fecha q864F1
+u_LO q263N,q848F1
+
+q270N
+abre q271N
+fecha q864F1
+u_LO q263N,q848F1
+
+q142N
+B_Liga q271N
+
+q31N
+B_Liga q24N
+
+q878F1
+B_Desliga q554F1
+B_Liga q861F1
+fecha q878F1
+
+q557F1
+fecha q554F1
+
+q561F1
+fecha q553F1
+
+q877F1
+B_Desliga q552F1
+B_Liga q861F1
+fecha q877F1
+
+q559F1
+fecha q559F1
+
+q556F1
+fecha q552F1
+
+q560F1
+fecha q551F1
+
+q879F1
+B_Desliga q555F1
+B_Liga q862F1
+fecha q879F1
+
+q571F1
+B_Desliga q555F1
+B_Liga q862F1
+fecha q571F1
+
+q558F1
+fecha q555F1
+
+q917F1
+fecha q917F1
+d_LO q859F1
+
+q644F1
+fecha q644F1
+d_LO q548F1
+
+q635F1
+fecha q635F1
+d_LO q534F1
+
+q641F1
+fecha q641F1
+d_LO q550F1
+
+q639F1
+fecha q634F1
+d_LO q539F1
+
+q753F1
+B_Desliga q333F1
+fecha q753F1
+
+q750F1
+B_Desliga q329F1
+fecha q747F1
+
+q341F1
+CV_Fecha q336F1
+fecha q341F1
+CV_Abre q326F1
+CV_Regula q330F1
+
+q752F1
+B_Desliga q330F1
+fecha q752F1
+
+q749F1
+B_Desliga q328F1
+fecha q745F1
+
+q342F1
+CV_Fecha q336F1
+fecha q342F1
+CV_Abre q327F1
+CV_Regula q332F1
+
+q642F1
+fecha q642F1
+d_LO q549F1
+
+q637F1
+fecha q637F1
+d_LO q534F1
+
+q636F1
+fecha q636F1
+d_LO q535F1
+
+q628F1
+fecha q628F1
+d_LO q541F1
+
+q914F1
+fecha q914F1
+d_LO q854F1
+
+q638F1
+fecha q638F1
+d_LO q535F1
+
+q911F1
+fecha q911F1
+d_LO q857F1
+
+q629F1
+fecha q629F1
+d_LO q542F1
+
+q626F1
+fecha q626F1
+d_LO q541F1
+
+q623F1
+fecha q623F1
+d_LO q546F1
+
+q630F1
+fecha q625F1
+d_LO q547F1
+
+q640F1
+fecha q640F1
+d_LO q549F1
+
+q631F1
+fecha q631F1
+d_LO q536F1
+
+q620F1
+fecha q620F1
+d_LO q543F1
+
+q916F1
+fecha q916F1
+d_LO q858F1
+
+q698F1
+B_Desliga q633F1
+fecha q698F1
+
+q621F1
+fecha q621F1
+d_LO q544F1
+
+q643F1
+fecha q643F1
+d_LO q548F1
+
+q633F1
+fecha q633F1
+d_LO q538F1
+
+q689F1
+B_Desliga q622F1
+fecha q689F1
+
+q624F1
+fecha q624F1
+d_LO q544F1
+
+q206N
+B_Desliga q39N,q320F1
+fecha q754F1
+regula q208N
+
+q204N
+B_Desliga q35N,q318F1
+abre q207N
+fecha q748F1
+
+q48N
+CV_Fecha q37N
+CV_Abre q35N
+CV_Regula q39N
+
+q754F1
+B_Desliga q334F1
+fecha q754F1
+
+q751F1
+B_Desliga q326F1
+fecha q746F1
+
+q343F1
+CV_Fecha q335F1
+fecha q344F1
+CV_Abre q326F1
+CV_Regula q334F1
+
+q344F1
+CV_Fecha q336F1
+fecha q344F1
+CV_Abre q327F1
+CV_Regula q331F1
+
+q205N
+B_Desliga q38N,q317F1
+fecha q754F1
+regula q208N
+
+q203N
+B_Desliga q34N,q315F1
+abre q207N
+fecha q746F1
+
+q47N
+CV_Fecha q36N
+CV_Abre q34N
+CV_Regula q38N
+
+q187N
+B_Desliga q163N,q619F1
+B_Liga q290N,q909F1
+fecha q701F1
+regula q190N
+
+q181N
+B_Desliga q157N,q618F1
+B_Liga q287N,q908F1
+abre q188N
+fecha q688F1
+
+q184N
+B_Desliga q160N,q617F1
+fecha q189N,q689F1
+
+q185N
+B_Desliga q161N,q613F1
+B_Liga q288N,q905F1
+fecha q695F1
+regula q190N
+
+q179N
+B_Desliga q155N,q612F1
+B_Liga q285N,q904F1
+abre q188N
+fecha q687F1
+
+q182N
+B_Desliga q158N,q611F1
+fecha q189N,q689F1
+
+q186N,q695F1
+B_Desliga q162N,q616F1,q632F1
+B_Liga q289N,q907F1,q913F1
+fecha q695F1
+regula q190N
+
+q180N,q692F1
+B_Desliga q156N,q615F1,q624F1
+B_Liga q286N,q906F1,q910F1
+abre q188N
+fecha q692F1
+
+q183N,q693F1
+B_Desliga q159N,q614F1,q622F1
+fecha q189N,q689F1
+
+q177N,q656F1
+CV_Fecha q159N,q622F1
+fecha q656F1
+CV_Abre q156N,q624F1
+CV_Regula q162N,q632F1
+
+q938F1
+B_Desliga q643F1
+B_Liga q916F1
+fecha q938F1
+
+q304N
+B_Desliga q163N,q619F1
+B_Liga q290N,q909F1
+fecha q936F1
+regula q306N
+
+q302N
+B_Desliga q157N,q618F1
+B_Liga q287N,q908F1
+abre q305N
+fecha q933F1
+
+q300N
+CV_Abre q287N
+CV_Regula q290N
+
+q178N
+CV_Fecha q160N
+CV_Abre q157N
+CV_Regula q163N
+
+q277N
+abre q278N
+fecha q889F1
+
+q276N
+B_Liga q270N,q860F1
+abre q278N
+fecha q882F1
+
+q141N
+abre q142N
+fecha q584F1
+
+q139N
+B_Liga q270N,q860F1
+abre q142N
+fecha q573F1
+
+q275N
+CV_Abre q270N
+
+q140N,q584F1
+abre q142N
+fecha q584F1
+
+q30N
+B_Liga q19N
+abre q31N
+
+q29N
+CV_Abre q19N
+
+q884F1
+B_Desliga q557F1
+fecha q878F1
+
+q865F1
+fecha q865F1
+
+q874F1
+fecha q874F1
+
+q563F1
+CV_Fecha q561F1
+fecha q563F1
+CV_Abre q557F1
+CV_Regula q559F1
+
+q886F1
+B_Desliga q559F1
+fecha q886F1
+
+q883F1
+B_Desliga q556F1
+fecha q877F1
+
+q863F1
+fecha q863F1
+
+q872F1
+fecha q872F1
+
+q562F1
+CV_Fecha q560F1
+fecha q562F1
+CV_Abre q556F1
+CV_Regula q559F1
+
+q885F1
+B_Desliga q558F1
+fecha q879F1
+
+q575F1
+B_Desliga q558F1
+fecha q571F1
+
+q864F1
+fecha q864F1
+
+q873F1
+fecha q873F1
+
+q674F1
+CV_Fecha q637F1
+fecha q674F1
+CV_Abre q643F1
+CV_Regula q627F1
+
+q684F1
+B_Desliga q620F1
+fecha q684F1
+
+q672F1
+CV_Fecha q633F1
+fecha q672F1
+CV_Abre q642F1
+CV_Regula q621F1
+
+q705F1
+B_Desliga q644F1
+B_Liga q917F1
+fecha q705F1
+
+q696F1
+B_Desliga q635F1
+fecha q696F1
+
+q664F1
+CV_Fecha q639F1
+fecha q664F1
+CV_Abre q641F1
+CV_Regula q621F1
+
+q731F1
+B_Desliga q664F1
+CV_Fecha q696F1
+fecha q731F1
+CV_Abre q705F1
+CV_Regula q691F1
+
+q671F1
+CV_Fecha q631F1
+fecha q671F1
+CV_Abre q640F1
+CV_Regula q621F1
+
+q926F1
+fecha q926F1
+CV_Abre q916F1
+CV_Regula q910F1
+
+q673F1
+CV_Fecha q633F1
+fecha q673F1
+CV_Abre q643F1
+CV_Regula q621F1
+
+q706F1
+B_Desliga q642F1
+B_Liga q916F1
+fecha q706F1
+
+q665F1
+CV_Fecha q633F1
+fecha q665F1
+CV_Abre q642F1
+CV_Regula q621F1
+
+q761F1
+B_Desliga q341F1
+fecha q761F1
+CV_Abre q750F1
+CV_Regula q753F1
+
+q46N,q340F1
+fecha q341F1
+regula q48N
+
+q760F1
+B_Desliga q342F1
+fecha q760F1
+CV_Abre q749F1
+CV_Regula q752F1
+
+q44N,q339F1
+abre q47N
+fecha q342F1
+
+q172N,q651F1
+fecha q177N,q656F1
+
+q939F1
+B_Desliga q642F1
+B_Liga q916F1
+fecha q939F1
+
+q666F1
+CV_Fecha q633F1
+fecha q666F1
+CV_Abre q642F1
+CV_Regula q621F1
+
+q699F1
+B_Desliga q637F1
+fecha q699F1
+
+q670F1
+CV_Fecha q637F1
+fecha q670F1
+CV_Abre q643F1
+CV_Regula q627F1
+
+q934F1
+B_Desliga q624F1
+B_Liga q910F1
+fecha q934F1
+
+q697F1
+B_Desliga q636F1
+B_Liga q913F1
+fecha q697F1
+
+q690F1
+B_Desliga q628F1
+fecha q690F1
+
+q661F1
+CV_Fecha q628F1
+fecha q661F1
+CV_Abre q627F1
+CV_Regula q636F1
+
+q703F1
+B_Desliga q640F1
+B_Liga q916F1
+fecha q703F1
+
+q694F1
+B_Desliga q631F1
+fecha q694F1
+
+q657F1
+CV_Fecha q622F1
+fecha q657F1
+CV_Abre q624F1
+CV_Regula q632F1
+
+q700F1
+B_Desliga q638F1
+B_Liga q914F1
+fecha q700F1
+
+q691F1
+B_Desliga q629F1
+B_Liga q911F1
+fecha q691F1
+
+q686F1
+B_Desliga q626F1
+fecha q686F1
+
+q655F1
+CV_Fecha q630F1
+fecha q655F1
+CV_Abre q623F1
+CV_Regula q632F1
+
+q721F1
+B_Desliga q655F1
+CV_Fecha q686F1
+fecha q721F1
+CV_Abre q691F1
+CV_Regula q700F1
+
+q937F1
+B_Desliga q640F1
+B_Liga q916F1
+fecha q937F1
+
+q663F1
+CV_Fecha q631F1
+fecha q663F1
+CV_Abre q640F1
+CV_Regula q621F1
+
+q931F1
+B_Desliga q621F1
+B_Liga q910F1
+fecha q931F1
+
+q654F1
+CV_Fecha q620F1
+fecha q654F1
+CV_Abre q621F1
+CV_Regula q632F1
+
+q685F1
+B_Desliga q621F1
+B_Liga q910F1
+fecha q685F1
+
+q704F1
+B_Desliga q643F1
+B_Liga q916F1
+fecha q704F1
+
+q925F1
+fecha q925F1
+CV_Abre q916F1
+CV_Regula q910F1
+
+q702F1
+B_Desliga q633F1
+fecha q698F1
+
+q668F1
+CV_Fecha q633F1
+fecha q668F1
+CV_Abre q643F1
+CV_Regula q621F1
+
+q687F1
+B_Desliga q627F1
+B_Liga q910F1
+fecha q687F1
+
+q695F1
+B_Desliga q632F1
+B_Liga q913F1
+fecha q695F1
+
+q692F1
+B_Desliga q624F1
+B_Liga q910F1
+fecha q692F1
+
+q693F1
+B_Desliga q622F1
+fecha q689F1
+
+q656F1
+CV_Fecha q622F1
+fecha q656F1
+CV_Abre q624F1
+CV_Regula q632F1
+
+q45N,q338F1
+fecha q344F1
+regula q48N
+
+q214N
+B_Desliga q48N
+CV_Abre q204N
+CV_Regula q206N
+
+q759F1
+B_Desliga q343F1
+fecha q759F1
+CV_Abre q751F1
+CV_Regula q754F1
+
+q43N,q337F1
+abre q47N
+fecha q344F1
+
+q213N
+B_Desliga q47N
+CV_Abre q203N
+CV_Regula q205N
+
+q202N
+B_Desliga q178N
+CV_Fecha q184N
+B_Liga q300N
+CV_Abre q181N
+CV_Regula q187N
+
+q200N
+B_Desliga q176N
+CV_Fecha q182N
+B_Liga q299N
+CV_Abre q179N
+CV_Regula q185N
+
+q170N,q645F1
+fecha q177N,q656F1
+
+q201N,q719F1
+B_Desliga q177N,q656F1
+CV_Fecha q183N,q693F1
+fecha q719F1
+CV_Abre q180N,q692F1
+CV_Regula q186N,q695F1
+
+q298N,q923F1
+fecha q925F1
+regula q300N
+
+q175N,q653F1
+fecha q668F1
+regula q178N
+
+q295N,q922F1
+abre q299N
+fecha q924F1
+
+q169N,q652F1
+abre q176N
+fecha q659F1
+
+q274N,q868F1
+abre q275N
+fecha q873F1
+
+q950F1
+B_Desliga q668F1
+B_Liga q925F1
+fecha q950F1
+CV_Abre q938F1
+CV_Regula q931F1
+
+q296N,q919F1
+fecha q925F1
+regula q300N
+
+q173N,q647F1
+fecha q668F1
+regula q178N
+
+q272N,q866F1
+abre q275N
+fecha q873F1
+
+q314N
+B_Desliga q178N
+B_Liga q300N
+CV_Abre q302N
+CV_Regula q304N
+
+q284N
+CV_Abre q277N
+
+q283N
+B_Liga q275N
+CV_Abre q276N
+
+q154N
+CV_Abre q141N
+
+q273N,q867F1,q870F1
+abre q275N
+fecha q873F1
+CV_Abre q864F1
+
+q152N
+B_Liga q275N
+CV_Abre q139N
+
+q153N,q604F1
+fecha q604F1
+CV_Abre q140N,q584F1
+
+q33N
+B_Liga q29N
+CV_Abre q30N
+
+q28N
+abre q29N
+
+q958N
+abre q959N
+
+q881F1
+B_Liga q863F1
+fecha q881F1
+
+q895F1
+B_Desliga q563F1
+B_Liga q872F1
+fecha q895F1
+CV_Abre q884F1
+CV_Regula q886F1
+
+q596F1
+B_Desliga q563F1
+B_Liga q874F1
+fecha q596F1
+CV_Abre q575F1
+
+q871F1
+fecha q874F1
+CV_Abre q865F1
+
+q565F1
+fecha q563F1
+
+q581F1
+fecha q581F1
+
+q583F1
+fecha q583F1
+
+q579F1
+fecha q579F1
+
+q578F1
+fecha q578F1
+
+q887F1
+fecha q887F1
+
+q880F1
+B_Liga q863F1
+fecha q880F1
+
+q894F1
+B_Desliga q562F1
+B_Liga q872F1
+fecha q894F1
+CV_Abre q883F1
+CV_Regula q886F1
+
+q869F1
+fecha q872F1
+CV_Abre q863F1
+
+q564F1
+fecha q562F1
+
+q888F1
+fecha q888F1
+
+q882F1
+B_Liga q864F1
+fecha q882F1
+
+q896F1
+B_Liga q873F1
+fecha q896F1
+CV_Abre q885F1
+
+q573F1
+B_Liga q864F1
+fecha q573F1
+
+q597F1
+B_Liga q873F1
+fecha q597F1
+CV_Abre q575F1
+
+q870F1
+fecha q873F1
+CV_Abre q864F1
+
+q584F1
+fecha q584F1
+
+q954F1
+B_Desliga q672F1
+fecha q954F1
+CV_Abre q939F1
+CV_Regula q931F1
+
+q738F1
+B_Desliga q674F1
+CV_Fecha q699F1
+B_Liga q926F1
+fecha q738F1
+CV_Abre q704F1
+CV_Regula q687F1
+
+q716F1
+B_Desliga q654F1
+CV_Fecha q684F1
+B_Liga q924F1
+fecha q716F1
+CV_Abre q685F1
+CV_Regula q695F1
+
+q737F1
+B_Desliga q672F1
+CV_Fecha q702F1
+fecha q737F1
+CV_Abre q706F1
+CV_Regula q685F1
+
+q734F1
+B_Desliga q664F1
+CV_Fecha q696F1
+fecha q731F1
+CV_Abre q705F1
+CV_Regula q691F1
+
+q367F1
+fecha q367F1
+d_SP q731F1
+
+q952F1
+B_Desliga q671F1
+B_Liga q926F1
+fecha q952F1
+CV_Abre q937F1
+CV_Regula q931F1
+
+q736F1
+B_Desliga q673F1
+CV_Fecha q702F1
+B_Liga q926F1
+fecha q736F1
+CV_Abre q704F1
+CV_Regula q685F1
+
+q729F1
+B_Desliga q665F1
+CV_Fecha q702F1
+fecha q729F1
+CV_Abre q706F1
+CV_Regula q685F1
+
+q212N,q757F1
+B_Desliga q46N,q340F1
+fecha q761F1
+regula q214N
+
+q776F1
+fecha q776F1
+d_SP q950F1
+
+q210N,q758F1
+B_Desliga q44N,q339F1
+abre q213N
+fecha q760F1
+
+q771F1
+fecha q771F1
+d_SP q947F1
+
+q199N,q715F1
+B_Desliga q175N,q653F1
+B_Liga q298N,q923F1
+fecha q728F1
+regula q202N
+
+q193N,q713F1
+B_Desliga q169N,q652F1
+B_Liga q295N,q922F1
+abre q200N
+fecha q718F1
+
+q196N,q714F1
+B_Desliga q172N,q651F1
+fecha q201N,q719F1
+
+q951F1
+B_Desliga q666F1
+fecha q951F1
+CV_Abre q939F1
+CV_Regula q931F1
+
+q733F1
+B_Desliga q670F1
+CV_Fecha q699F1
+B_Liga q925F1
+fecha q733F1
+CV_Abre q704F1
+CV_Regula q687F1
+
+q948F1
+B_Desliga q657F1
+fecha q948F1
+CV_Abre q934F1
+CV_Regula q935F1
+
+q723F1
+B_Desliga q661F1
+CV_Fecha q690F1
+B_Liga q924F1
+fecha q723F1
+CV_Abre q687F1
+CV_Regula q697F1
+
+q726F1
+B_Desliga q663F1
+CV_Fecha q694F1
+B_Liga q925F1
+fecha q726F1
+CV_Abre q703F1
+CV_Regula q685F1
+
+q720F1
+B_Desliga q657F1
+CV_Fecha q693F1
+fecha q720F1
+CV_Abre q692F1
+CV_Regula q695F1
+
+q724F1
+B_Desliga q655F1
+CV_Fecha q686F1
+fecha q721F1
+CV_Abre q691F1
+CV_Regula q700F1
+
+q357F1
+fecha q357F1
+d_SP q721F1
+
+q949F1
+B_Desliga q663F1
+B_Liga q925F1
+fecha q949F1
+CV_Abre q937F1
+CV_Regula q931F1
+
+q946F1
+B_Desliga q654F1
+B_Liga q924F1
+fecha q946F1
+CV_Abre q931F1
+CV_Regula q935F1
+
+q728F1
+B_Desliga q668F1
+CV_Fecha q702F1
+B_Liga q925F1
+fecha q728F1
+CV_Abre q704F1
+CV_Regula q685F1
+
+q718F1
+B_Desliga q659F1
+CV_Fecha q693F1
+B_Liga q924F1
+fecha q718F1
+CV_Abre q687F1
+CV_Regula q695F1
+
+q719F1
+B_Desliga q656F1
+CV_Fecha q693F1
+fecha q719F1
+CV_Abre q692F1
+CV_Regula q695F1
+
+q211N,q755F1
+B_Desliga q45N,q338F1
+fecha q759F1
+regula q214N
+
+q222N
+u_HI_HI q214N
+d_SP q314N
+
+q209N,q756F1
+B_Desliga q43N,q337F1
+abre q213N
+fecha q759F1
+
+q221N
+u_HI_HI q213N
+
+q197N,q709F1
+B_Desliga q173N,q647F1
+B_Liga q296N,q919F1
+fecha q728F1
+regula q202N
+
+q60N
+d_SP q202N
+
+q191N,q707F1
+B_Desliga q167N,q646F1
+B_Liga q293N,q918F1
+abre q200N
+fecha q718F1
+
+q58N
+d_SP q200N
+
+q194N,q708F1
+B_Desliga q170N,q645F1
+fecha q201N,q719F1
+
+q355F1,q59N
+fecha q355F1
+d_SP q201N,q719F1
+
+q282N,q893F1
+fecha q903F1
+regula q284N
+
+q312N,q945F1
+B_Desliga q175N,q653F1
+B_Liga q298N,q923F1
+fecha q950F1
+regula q314N
+
+q280N,q892F1
+B_Liga q274N,q868F1
+abre q283N
+fecha q896F1
+
+q309N,q944F1
+B_Desliga q169N,q652F1
+B_Liga q295N,q922F1
+abre q313N
+fecha q947F1
+
+q151N,q594F1
+fecha q607F1
+regula q154N
+
+q145N,q592F1
+B_Liga q274N,q868F1
+abre q152N
+fecha q597F1
+
+q148N,q593F1
+fecha q153N,q604F1
+
+q310N,q941F1
+B_Desliga q173N,q647F1
+B_Liga q296N,q919F1
+fecha q950F1
+regula q314N
+
+q307N,q940F1
+B_Desliga q167N,q646F1
+B_Liga q293N,q918F1
+abre q313N
+fecha q947F1
+
+q149N,q588F1
+fecha q607F1
+regula q154N
+
+q143N,q586F1
+B_Liga q272N,q866F1
+abre q152N
+fecha q597F1
+
+q146N,q587F1
+fecha q153N,q604F1
+
+q248N
+u_SP q314N
+d_LO_LO q284N
+
+q281N,q891F1,q903F1
+fecha q903F1
+regula q284N
+CV_Abre q888F1
+CV_Regula q888F1
+
+q279N,q890F1,q899F1
+B_Liga q273N,q867F1,q870F1
+abre q283N
+fecha q896F1
+CV_Abre q882F1
+
+q247N
+u_SP q313N
+
+q102N
+d_LO_LO q154N
+
+q150N,q591F1,q607F1
+fecha q607F1
+regula q154N
+CV_Abre q584F1
+
+q144N,q589F1,q600F1
+B_Liga q273N,q867F1,q870F1
+abre q152N
+fecha q597F1
+CV_Abre q573F1
+
+q100N
+d_LO_LO q152N
+
+q101N,q470F1
+d_LO_LO q153N,q604F1
+fecha q470F1
+
+q147N,q590F1,q604F1
+fecha q153N,q604F1
+CV_Abre q584F1
+
+q32N
+B_Liga q28N
+abre q33N
+
+q980N
+B_Desliga q958N
+abre q981N
+
+q898F1
+B_Desliga q565F1
+B_Liga q869F1
+fecha q895F1
+CV_Abre q881F1
+CV_Regula q887F1
+
+q599F1
+B_Desliga q565F1
+B_Liga q871F1
+fecha q596F1
+CV_Abre q573F1
+
+q901F1
+fecha q901F1
+CV_Abre q888F1
+CV_Regula q887F1
+
+q605F1
+fecha q605F1
+CV_Abre q584F1
+
+q609F1
+CV_Fecha q583F1
+fecha q609F1
+CV_Abre q581F1
+CV_Regula q581F1
+
+q601F1
+CV_Fecha q578F1
+fecha q601F1
+CV_Abre q579F1
+CV_Regula q579F1
+
+q900F1
+fecha q900F1
+CV_Abre q887F1
+CV_Regula q887F1
+
+q897F1
+B_Desliga q564F1
+B_Liga q869F1
+fecha q894F1
+CV_Abre q880F1
+CV_Regula q887F1
+
+q903F1
+fecha q903F1
+CV_Abre q888F1
+CV_Regula q888F1
+
+q899F1
+B_Liga q870F1
+fecha q896F1
+CV_Abre q882F1
+
+q607F1
+fecha q607F1
+CV_Abre q584F1
+
+q600F1
+B_Liga q870F1
+fecha q597F1
+CV_Abre q573F1
+
+q604F1
+fecha q604F1
+CV_Abre q584F1
+
+q778F1
+fecha q778F1
+d_SP q954F1
+
+q376F1
+fecha q376F1
+d_SP q738F1
+
+q354F1
+fecha q354F1
+d_SP q716F1
+
+q374F1
+fecha q374F1
+d_SP q737F1
+
+q372F1
+fecha q367F1
+d_SP q734F1
+
+q777F1
+fecha q777F1
+d_SP q952F1
+
+q375F1
+fecha q375F1
+d_SP q736F1
+
+q365F1
+fecha q365F1
+d_SP q729F1
+
+q797F1
+B_Desliga q369F1
+B_Liga q776F1
+fecha q797F1
+
+q220N,q767F1
+fecha q776F1
+regula q222N
+u_HI_HI q212N,q757F1
+d_SP q312N,q945F1
+
+q57N,q353F1
+fecha q369F1
+regula q60N
+d_SP q199N,q715F1
+
+q794F1
+B_Desliga q359F1
+B_Liga q771F1
+fecha q794F1
+
+q217N,q766F1
+abre q221N
+fecha q771F1
+u_HI_HI q210N,q758F1
+d_SP q309N,q944F1
+
+q51N,q352F1
+abre q58N
+fecha q359F1
+d_SP q193N,q713F1
+
+q220N
+fecha q776F1
+regula q222N
+u_HI_HI q212N,q757F1
+d_SP q312N,q945F1
+
+q217N
+abre q221N
+fecha q771F1
+u_HI_HI q210N,q758F1
+d_SP q309N,q944F1
+
+q57N
+fecha q369F1
+regula q60N
+d_SP q199N,q715F1
+
+q51N
+abre q58N
+fecha q359F1
+d_SP q193N,q713F1
+
+q54N
+fecha q355F1,q59N
+d_SP q196N,q714F1
+
+q262N
+B_Desliga q102N
+B_Liga q248N
+
+q842F1
+B_Desliga q459F1
+B_Liga q817F1
+fecha q842F1
+
+q846F1
+B_Desliga q475F1
+B_Liga q823F1
+fecha q846F1
+
+q261N
+B_Desliga q100N
+B_Liga q247N
+
+q773F1
+fecha q773F1
+d_SP q951F1
+
+q371F1
+fecha q371F1
+d_SP q733F1
+
+q769F1
+fecha q769F1
+d_SP q948F1
+
+q361F1
+fecha q361F1
+d_SP q723F1
+
+q364F1
+fecha q364F1
+d_SP q726F1
+
+q356F1
+fecha q356F1
+d_SP q720F1
+
+q362F1
+fecha q357F1
+d_SP q724F1
+
+q772F1
+fecha q772F1
+d_SP q949F1
+
+q768F1
+fecha q768F1
+d_SP q946F1
+
+q369F1
+fecha q369F1
+d_SP q728F1
+
+q359F1
+fecha q359F1
+d_SP q718F1
+
+q355F1
+fecha q355F1
+d_SP q719F1
+
+q234N
+B_Desliga q60N
+B_Liga q222N
+
+q796F1
+B_Desliga q369F1
+B_Liga q772F1
+fecha q796F1
+
+q218N,q763F1
+fecha q772F1
+regula q222N
+u_HI_HI q211N,q755F1
+
+q55N,q347F1
+fecha q369F1
+regula q60N
+d_SP q197N,q709F1
+
+q793F1
+B_Desliga q359F1
+B_Liga q768F1
+fecha q793F1
+
+q233N
+B_Desliga q58N
+B_Liga q221N
+
+q215N,q762F1
+abre q221N
+fecha q768F1
+u_HI_HI q209N,q756F1
+
+q49N,q346F1
+abre q58N
+fecha q359F1
+d_SP q191N,q707F1
+
+q218N
+fecha q772F1
+regula q222N
+u_HI_HI q211N,q755F1
+
+q215N
+abre q221N
+fecha q768F1
+u_HI_HI q209N,q756F1
+
+q55N
+fecha q369F1
+regula q60N
+d_SP q197N,q709F1
+
+q49N
+abre q58N
+fecha q359F1
+d_SP q191N,q707F1
+
+q52N
+fecha q355F1,q59N
+d_SP q194N,q708F1
+
+q246N,q812F1
+u_SP q312N,q945F1
+d_LO_LO q282N,q893F1
+fecha q817F1
+regula q248N
+
+q99N,q451F1
+d_LO_LO q151N,q594F1
+fecha q459F1
+regula q102N
+
+q243N,q813F1
+abre q247N
+u_SP q309N,q944F1
+d_LO_LO q280N,q892F1
+fecha q823F1
+
+q93N,q453F1
+abre q100N
+d_LO_LO q145N,q592F1
+fecha q475F1
+
+q246N
+u_SP q312N,q945F1
+d_LO_LO q282N,q893F1
+fecha q817F1
+regula q248N
+
+q243N
+abre q247N
+u_SP q309N,q944F1
+d_LO_LO q280N,q892F1
+fecha q823F1
+
+q96N,q452F1
+d_LO_LO q148N,q593F1
+fecha q101N,q470F1
+
+q99N
+d_LO_LO q151N,q594F1
+fecha q459F1
+regula q102N
+
+q93N
+abre q100N
+d_LO_LO q145N,q592F1
+fecha q475F1
+
+q96N
+d_LO_LO q148N,q593F1
+fecha q101N,q470F1
+
+q244N,q808F1
+u_SP q310N,q941F1
+fecha q814F1
+regula q248N
+
+q97N,q445F1
+d_LO_LO q149N,q588F1
+fecha q459F1
+regula q102N
+
+q241N,q809F1
+abre q247N
+u_SP q307N,q940F1
+fecha q821F1
+
+q91N,q447F1
+abre q100N
+d_LO_LO q143N,q586F1
+fecha q475F1
+
+q244N
+u_SP q310N,q941F1
+fecha q814F1
+regula q248N
+
+q241N
+abre q247N
+u_SP q307N,q940F1
+fecha q821F1
+
+q94N,q446F1
+d_LO_LO q146N,q587F1
+fecha q101N,q470F1
+
+q97N
+d_LO_LO q149N,q588F1
+fecha q459F1
+regula q102N
+
+q91N
+abre q100N
+d_LO_LO q143N,q586F1
+fecha q475F1
+
+q94N
+d_LO_LO q146N,q587F1
+fecha q101N,q470F1
+
+q126N
+B_Desliga q102N
+B_Liga q248N
+
+q245N,q810F1,q817F1
+d_LO_LO q281N,q891F1,q903F1
+fecha q817F1
+regula q248N
+
+q98N,q459F1,q448F1
+d_LO_LO q150N,q591F1,q607F1
+fecha q459F1
+regula q102N
+
+q124N
+B_Desliga q100N
+B_Liga q247N
+
+q242N,q811F1,q823F1
+abre q247N
+d_LO_LO q279N,q890F1,q899F1
+fecha q823F1
+
+q92N,q475F1,q450F1
+abre q100N
+d_LO_LO q144N,q589F1,q600F1
+fecha q475F1
+
+q125N,q519F1
+B_Desliga q101N,q470F1
+fecha q519F1
+
+q95N,q470F1,q449F1
+d_LO_LO q147N,q590F1,q604F1
+fecha q101N,q470F1
+
+q98N,q459F1
+d_LO_LO q150N,q591F1,q607F1
+fecha q459F1
+regula q102N
+
+q92N,q475F1
+abre q100N
+d_LO_LO q144N,q589F1,q600F1
+fecha q475F1
+
+q95N,q470F1
+d_LO_LO q147N,q590F1,q604F1
+fecha q101N,q470F1
+
+q976N
+B_Desliga q967N
+
+q2N
+B_Liga q12N
+
+q11N
+abre q12N
+Stop q980N
+d_LO_LO q32N
+
+q822F1
+d_LO_LO q898F1
+fecha q822F1
+
+q476F1
+d_LO_LO q599F1
+fecha q476F1
+
+q463F1
+d_LO_LO q609F1
+fecha q463F1
+
+q477F1
+d_LO_LO q600F1
+fecha q477F1
+
+q465F1
+d_LO_LO q601F1
+fecha q465F1
+
+q815F1
+d_LO_LO q901F1
+fecha q815F1
+
+q461F1
+d_LO_LO q605F1
+fecha q461F1
+
+q818F1
+d_LO_LO q900F1
+fecha q818F1
+
+q472F1
+d_LO_LO q609F1
+fecha q472F1
+
+q462F1
+d_LO_LO q607F1
+fecha q462F1
+
+q454F1
+d_LO_LO q601F1
+fecha q454F1
+
+q814F1
+d_LO_LO q900F1
+fecha q814F1
+
+q821F1
+d_LO_LO q897F1
+fecha q821F1
+
+q817F1
+d_LO_LO q903F1
+fecha q817F1
+
+q823F1
+d_LO_LO q899F1
+fecha q823F1
+
+q459F1
+d_LO_LO q607F1
+fecha q459F1
+
+q475F1
+d_LO_LO q600F1
+fecha q475F1
+
+q470F1
+d_LO_LO q604F1
+fecha q470F1
+
+q799F1
+B_Desliga q376F1
+B_Liga q778F1
+fecha q799F1
+
+q391F1
+CV_Fecha q372F1
+fecha q391F1
+CV_Abre q374F1
+CV_Regula q354F1
+
+q787F1
+fecha q787F1
+CV_Abre q777F1
+CV_Regula q768F1
+
+q392F1
+CV_Fecha q365F1
+fecha q392F1
+CV_Abre q375F1
+CV_Regula q359F1
+
+q232N
+B_Desliga q57N,q353F1
+B_Liga q220N,q767F1
+fecha q797F1
+regula q234N
+
+q230N
+B_Desliga q51N,q352F1
+B_Liga q217N,q766F1
+abre q233N
+fecha q794F1
+
+q228N
+CV_Abre q217N
+CV_Regula q220N
+
+q69N
+CV_Fecha q54N
+CV_Abre q51N
+CV_Regula q57N
+
+q260N
+B_Desliga q99N,q451F1
+B_Liga q246N,q812F1
+fecha q842F1
+regula q262N
+
+q258N
+B_Desliga q93N,q453F1
+B_Liga q243N,q813F1
+abre q261N
+fecha q846F1
+
+q798F1
+B_Desliga q371F1
+B_Liga q773F1
+fecha q798F1
+
+q795F1
+B_Desliga q361F1
+B_Liga q769F1
+fecha q795F1
+
+q383F1
+CV_Fecha q362F1
+fecha q383F1
+CV_Abre q356F1
+CV_Regula q364F1
+
+q784F1
+fecha q784F1
+CV_Abre q768F1
+CV_Regula q772F1
+
+q385F1
+CV_Fecha q355F1
+fecha q385F1
+CV_Abre q359F1
+CV_Regula q369F1
+
+q231N
+B_Desliga q55N,q347F1
+B_Liga q218N,q763F1
+fecha q796F1
+regula q234N
+
+q229N
+B_Desliga q49N,q346F1
+B_Liga q215N,q762F1
+abre q233N
+fecha q793F1
+
+q227N
+CV_Abre q215N
+CV_Regula q218N
+
+q67N
+CV_Fecha q52N
+CV_Abre q49N
+CV_Regula q55N
+
+q123N
+B_Desliga q99N,q451F1
+B_Liga q246N,q812F1
+fecha q512F1
+regula q126N
+
+q117N
+B_Desliga q93N,q453F1
+B_Liga q243N,q813F1
+abre q124N
+fecha q522F1
+
+q256N
+CV_Abre q243N
+CV_Regula q246N
+
+q120N
+B_Desliga q96N,q452F1
+fecha q125N,q519F1
+
+q114N
+CV_Fecha q96N
+CV_Abre q93N
+CV_Regula q99N
+
+q121N
+B_Desliga q97N,q445F1
+B_Liga q244N,q808F1
+fecha q510F1
+regula q126N
+
+q115N
+B_Desliga q91N,q447F1
+B_Liga q241N,q809F1
+abre q124N
+fecha q521F1
+
+q255N
+CV_Abre q241N
+CV_Regula q244N
+
+q118N
+B_Desliga q94N,q446F1
+fecha q125N,q519F1
+
+q112N
+CV_Fecha q94N
+CV_Abre q91N
+CV_Regula q97N
+
+q122N,q512F1
+B_Desliga q98N,q459F1,q448F1
+B_Liga q245N,q810F1,q817F1
+fecha q512F1
+regula q126N
+
+q116N,q522F1
+B_Desliga q92N,q475F1,q450F1
+B_Liga q242N,q811F1,q823F1
+abre q124N
+fecha q522F1
+
+q119N,q519F1
+B_Desliga q95N,q470F1,q449F1
+fecha q125N,q519F1
+
+q113N,q495F1
+CV_Fecha q95N,q470F1
+fecha q495F1
+CV_Abre q92N,q475F1
+CV_Regula q98N,q459F1
+
+q975N
+B_Desliga q963N
+fecha q976N
+
+q974N
+CV_Fecha q963N
+
+q1N
+B_Liga q11N
+abre q2N
+
+q843F1
+B_Desliga q461F1
+B_Liga q815F1
+fecha q843F1
+
+q847F1
+B_Desliga q476F1
+B_Liga q822F1
+fecha q847F1
+
+q494F1
+CV_Fecha q465F1
+fecha q494F1
+CV_Abre q477F1
+CV_Regula q463F1
+
+q514F1
+B_Desliga q461F1
+B_Liga q815F1
+fecha q514F1
+
+q830F1
+fecha q830F1
+CV_Abre q814F1
+CV_Regula q818F1
+
+q508F1
+B_Desliga q454F1
+fecha q508F1
+
+q489F1
+CV_Fecha q454F1
+fecha q489F1
+CV_Abre q462F1
+CV_Regula q472F1
+
+q510F1
+B_Desliga q459F1
+B_Liga q814F1
+fecha q510F1
+
+q521F1
+B_Desliga q475F1
+B_Liga q821F1
+fecha q521F1
+
+q832F1
+fecha q832F1
+CV_Abre q821F1
+CV_Regula q814F1
+
+q496F1
+CV_Fecha q470F1
+fecha q496F1
+CV_Abre q475F1
+CV_Regula q459F1
+
+q512F1
+B_Desliga q459F1
+B_Liga q817F1
+fecha q512F1
+
+q522F1
+B_Desliga q475F1
+B_Liga q823F1
+fecha q522F1
+
+q519F1
+B_Desliga q470F1
+fecha q519F1
+
+q495F1
+CV_Fecha q470F1
+fecha q495F1
+CV_Abre q475F1
+CV_Regula q459F1
+
+q807F1
+B_Desliga q391F1
+fecha q807F1
+CV_Abre q799F1
+CV_Regula q795F1
+
+q225N,q781F1
+fecha q787F1
+regula q228N
+
+q65N,q379F1
+fecha q392F1
+regula q69N
+
+q240N
+B_Desliga q69N
+B_Liga q228N
+CV_Abre q230N
+CV_Regula q232N
+
+q269N
+B_Desliga q114N
+B_Liga q256N
+CV_Abre q258N
+CV_Regula q260N
+
+q805F1
+B_Desliga q383F1
+fecha q805F1
+CV_Abre q795F1
+CV_Regula q798F1
+
+q223N,q780F1
+abre q227N
+fecha q784F1
+
+q61N,q378F1
+abre q67N
+fecha q385F1
+
+q239N
+B_Desliga q67N
+B_Liga q227N
+CV_Abre q229N
+CV_Regula q231N
+
+q252N,q824F1
+fecha q830F1
+regula q256N
+
+q109N,q478F1
+fecha q489F1
+regula q114N
+
+q138N
+B_Desliga q114N
+CV_Fecha q120N
+B_Liga q256N
+CV_Abre q117N
+CV_Regula q123N
+
+q249N,q825F1
+abre q255N
+fecha q832F1
+
+q103N,q480F1
+abre q112N
+fecha q496F1
+
+q136N
+B_Desliga q112N
+CV_Fecha q118N
+B_Liga q255N
+CV_Abre q115N
+CV_Regula q121N
+
+q106N,q479F1
+fecha q113N,q495F1
+
+q137N,q545F1
+B_Desliga q113N,q495F1
+CV_Fecha q119N,q519F1
+fecha q545F1
+CV_Abre q116N,q522F1
+CV_Regula q122N,q512F1
+
+q978N
+B_Desliga q974N
+CV_Fecha q975N
+
+q972N
+fecha q974N
+
+q4N
+CV_Abre q1N
+
+q853F1
+B_Desliga q489F1
+B_Liga q830F1
+fecha q853F1
+CV_Abre q843F1
+
+q856F1
+B_Desliga q494F1
+B_Liga q832F1
+fecha q856F1
+CV_Abre q847F1
+
+q537F1
+B_Desliga q489F1
+CV_Fecha q508F1
+B_Liga q830F1
+fecha q537F1
+CV_Abre q514F1
+
+q542F1
+B_Desliga q496F1
+CV_Fecha q519F1
+B_Liga q832F1
+fecha q542F1
+CV_Abre q521F1
+CV_Regula q510F1
+
+q545F1
+B_Desliga q495F1
+CV_Fecha q519F1
+fecha q545F1
+CV_Abre q522F1
+CV_Regula q512F1
+
+q237N,q801F1
+B_Desliga q65N,q379F1
+B_Liga q225N,q781F1
+fecha q807F1
+regula q240N
+
+q292N
+d_LO q269N
+u_HI q240N
+
+q235N,q800F1
+B_Desliga q61N,q378F1
+B_Liga q223N,q780F1
+abre q239N
+fecha q805F1
+
+q291N
+u_HI q239N
+
+q133N,q524F1
+B_Desliga q109N,q478F1
+B_Liga q252N,q824F1
+fecha q537F1
+regula q138N
+
+q166N
+d_LO q138N
+
+q127N,q525F1
+B_Desliga q103N,q480F1
+B_Liga q249N,q825F1
+abre q136N
+fecha q542F1
+
+q164N
+d_LO q136N
+
+q130N,q526F1
+B_Desliga q106N,q479F1
+fecha q137N,q545F1
+
+q165N,q622F1
+fecha q622F1
+d_LO q137N,q545F1
+
+q956N
+Start q4N
+d_LO_LO q978N
+
+q977N
+B_Desliga q972N
+fecha q978N
+
+q3N
+fecha q4N
+
+q913F1
+fecha q913F1
+d_LO q853F1
+
+q910F1
+fecha q910F1
+d_LO q856F1
+
+q632F1
+fecha q632F1
+d_LO q537F1
+
+q627F1
+fecha q627F1
+d_LO q542F1
+
+q622F1
+fecha q622F1
+d_LO q545F1
+
+q306N
+B_Desliga q166N
+B_Liga q292N
+
+q288N,q905F1
+fecha q913F1
+regula q292N
+u_HI q237N,q801F1
+
+q161N,q613F1
+fecha q632F1
+regula q166N
+d_LO q133N,q524F1
+
+q305N
+B_Desliga q164N
+B_Liga q291N
+
+q285N,q904F1
+abre q291N
+fecha q910F1
+u_HI q235N,q800F1
+
+q155N,q612F1
+abre q164N
+fecha q627F1
+d_LO q127N,q525F1
+
+q288N
+fecha q913F1
+regula q292N
+u_HI q237N,q801F1
+
+q285N
+abre q291N
+fecha q910F1
+u_HI q235N,q800F1
+
+q161N
+fecha q632F1
+regula q166N
+d_LO q133N,q524F1
+
+q155N
+abre q164N
+fecha q627F1
+d_LO q127N,q525F1
+
+q158N
+fecha q165N,q622F1
+d_LO q130N,q526F1
+
+q955N
+Start q3N
+d_LO_LO q977N
+fecha q956N
+
+q935F1
+B_Desliga q632F1
+B_Liga q913F1
+fecha q935F1
+
+q932F1
+B_Desliga q627F1
+B_Liga q910F1
+fecha q932F1
+
+q924F1
+fecha q924F1
+CV_Abre q910F1
+CV_Regula q913F1
+
+q659F1
+CV_Fecha q622F1
+fecha q659F1
+CV_Abre q627F1
+CV_Regula q632F1
+
+q303N
+B_Desliga q161N,q613F1
+B_Liga q288N,q905F1
+fecha q935F1
+regula q306N
+
+q301N
+B_Desliga q155N,q612F1
+B_Liga q285N,q904F1
+abre q305N
+fecha q932F1
+
+q299N
+CV_Abre q285N
+CV_Regula q288N
+
+q176N
+CV_Fecha q158N
+CV_Abre q155N
+CV_Regula q161N
+
+q959N
+CV_Fecha q955N
+
+q947F1
+B_Desliga q659F1
+B_Liga q924F1
+fecha q947F1
+CV_Abre q932F1
+CV_Regula q935F1
+
+q293N,q918F1
+abre q299N
+fecha q924F1
+
+q167N,q646F1
+abre q176N
+fecha q659F1
+
+q957N
+abre q959N
+
+q313N
+B_Desliga q176N
+B_Liga q299N
+CV_Abre q301N
+CV_Regula q303N
+
+q981N
+B_Desliga q959N
+
+q961N
+Start q7N
+underflow q962N
+fecha q968N
+
+q307N
+B_Desliga q167N,q646F1
+B_Liga q293N,q918F1
+abre q313N
+fecha q947F1
+
+q979N
+B_Desliga q957N
+abre q981N
+
+q12N
+Stop q981N
+u_SP q313N
+
+q962N
+B_Desliga q961N
+Start q7N
+underflow q962N
+fecha q0N
+
+q7N
+fecha q9N
+
+q13N
+abre q14N
+
+q970N
+abre q973N
+
+q16N
+B_Liga q12N
+
+q10N
+abre q12N
+Stop q979N
+u_SP q307N
+
+q960N
+Start q7N
+underflow q962N
+fecha q967N
+
+q17N
+B_Liga q13N
+abre q18N
+
+q982N
+B_Desliga q970N
+abre q984N
+
+q26N
+B_Liga q24N
+Stop q984N
+u_LO q18N
+
+q19N
+abre q24N
+Stop q982N
+u_LO q17N
+
+q15N
+B_Liga q10N
+abre q16N
+
+q14N
+CV_Abre q10N
+
+q973N
+CV_Fecha q960N
+
+q20N
+B_Liga q19N
+abre q26N
+Stop q982N
+u_LO q17N
+
+q25N
+Stop q984N
+CV_Abre q19N
+u_LO q18N
+
+q971N
+abre q973N
+
+q18N
+B_Liga q14N
+CV_Abre q15N
+
+q984N
+B_Desliga q973N
+
+q27N
+B_Liga q25N
+Stop q984N
+CV_Abre q20N
+u_LO q18N
+
+q22N
+underflow q23N
+abre q25N
+Stop q983N
+
+q983N
+B_Desliga q971N
+abre q984N
+
+q24N
+Stop q984N
+u_LO q18N
+
+q23N
+underflow q23N
+B_Liga q22N
+abre q27N
+Stop q983N
+
+q6N
+B_Liga q24N
+
+q21N
+underflow q23N
+abre q24N
+Stop q983N
+
+q964N
+Start q8N
+underflow q966N
+fecha q968N
+
+q967N
+Start q9N
+underflow q0N
+
+q5N
+B_Liga q21N
+abre q6N
+
+q969N
+B_Desliga q967N
+Start q9N
+underflow q0N
+
+q966N
+B_Desliga q964N
+Start q8N
+underflow q966N
+fecha q0N
+
+q8N
+fecha q9N
+
+q963N
+Start q8N
+underflow q966N
+fecha q967N
+
+q9N
+CV_Abre q5N
+
+q965N
+B_Desliga q963N
+Start q8N
+underflow q966N
+fecha q969N
+
+q968N
+CV_Fecha q963N
+Start q9N
+underflow q0N
