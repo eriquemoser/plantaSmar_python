@@ -4,12 +4,14 @@ from leitura_automato.lib.arquivo import *
 
 arq = 'GnTransicoes_Certa.txt'
 eventos = 'eventos.txt'
+#print('oi, teste')
 
 if arquivoExiste(arq):
     print('Arquivo encontrado!!!')
 else:
     print('Arquivo não encontrado :(')
     criararquivo(arq)
+
 
 pos = 0
 
