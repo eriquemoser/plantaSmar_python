@@ -2,6 +2,7 @@ import pywintypes
 import OpenOPC
 import time
 
+#CONEXÃO OPC
 pywintypes.datetime = pywintypes.TimeType
 opc = OpenOPC.client()
 opc.connect('Smar.DfiOleServer.0', 'localhost')
@@ -14,30 +15,40 @@ tags = ['FB_MDI.OUT_D1.VALUE','FB_MDI.OUT_D2.VALUE','FB_MDI.OUT_D3.VALUE','FB_MD
         'FFFB_MDI.OUT_D1.VALUE','FFFB_MDI.OUT_D2.VALUE'
         ] #lista ou tupla
 
-#INICIALIZAÇÃO
+#DECLARAÇÃO VARIAVEIS
 cont = 0
 init = []
-nomes= ['$$$$', 'c_d_lo', 'chave2', 'c_d_hi', 'c_d_sp', 'c_u_hi', 'c_u_hi_hi', 'c_u_lo', 'c_u_sp',
-        'c_underflow', 'c_overflow', 'start', 'stop', 'bligada', 'bdesligada', 'vfecha', 'vabre',
+pos = []
+nomes= ['$$$$', 'd_lo', 'd_lo_lo', 'd_hi', 'd_sp', 'u_hi', 'u_hi_hi', 'u_lo', 'u_sp',
+        'underflow', 'overflow', 'start', 'stop', 'bomba_liga', 'bomba_deslg', 'vfecha', 'vabre',
         'vregula']
 
 #CAPTURA OS ESTADOS INICIAIS
 alarmes = opc.read(tags, group='Group_1', update=1)
+#print(alarmes)
 for c in range(0,len(alarmes)):
     init.append(alarmes[c][1])
 print(init)
 
 #CAPTURA DOS DADOS
 while True:
+
     alarmes = opc.read(tags, group='Group_1', update=1)
-    for c in range(0, len(alarmes)):
+    time.sleep(0.1)
+    for c in range(1, len(alarmes)):
         if alarmes[c][1] != init[c]:
             print(nomes[c])
             #print(alarmes[c][0])
             init[c]=alarmes[c][1]
+            #print(init)
+    opc.write(('FB_MDO.IN_D1.VALUE', 1))
+    #time.sleep(0.5)
+    opc.write(('FB_MDO.IN_D1.VALUE', 0))
+    #time.sleep(1)
 
-    print(f'{cont} -------------------------------')
+    #print(f'{cont} -------------------------------')
+    #print(cont, '.')
     cont+=1
 
 
-time.sleep(0.1)
+#time.sleep(0.1)
